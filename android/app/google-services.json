@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941742463883",
+    "project_id": "unet-492d3",
+    "storage_bucket": "unet-492d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941742463883:android:6da6f7da154bb90d226d8e",
+        "android_client_info": {
+          "package_name": "com.example.unet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941742463883-kisqhfa05hlssi72f58ipar353dpl5e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5R1A_klyuRVR8SpDSdnzo6nt5FvMkjaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941742463883-kisqhfa05hlssi72f58ipar353dpl5e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
